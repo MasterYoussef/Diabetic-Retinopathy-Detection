@@ -1,0 +1,28 @@
+Instructions to be followed
+--------------------------------------------------
+
+Install the below required packages:
+
+django - (pip install django)
+tensorflow - (pip install tensorflow)
+pillow - (pip install pillow OR pip install PIL)
+numpy (pip install numpy)
+
+===================================================
+
+Go to file diabetic_retinopathy -> settings.py You must change to your local path:
+
+STATIC_URL = '/users/hp/Desktop/detection-diabetique/diab_retina_app/output/' 
+===================================================
+To execute the program (launch the application):
+
+python manage.py runserver
+
+===================================================
+
+Input:
+add the images to the "test" file to use them
+
+
+===================================================
+
