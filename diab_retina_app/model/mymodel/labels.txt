@@ -1,0 +1,5 @@
+0 pas de RD
+1 legere
+2 moderee
+3 severe
+4 proliferative
